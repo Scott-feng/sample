@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace App\mcrypt_module_get_supported_key_sizes(algorithm);
 
 use Illuminate\Notifications\Notifiable;
 use Illuminate\Foundation\Auth\User as Authenticatable;
